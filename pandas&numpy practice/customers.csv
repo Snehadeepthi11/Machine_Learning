@@ -1,0 +1,6 @@
+CustomerID,Name,Age,City
+1,Alice,25.0,New York
+2,Bob,30.0,Los Angeles
+3,Charlie,35.0,
+4,David,,Chicago
+5,Eve,45.0,Houston
